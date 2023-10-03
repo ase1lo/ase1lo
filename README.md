@@ -7,9 +7,6 @@
 
 Я начинающий backend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Я начинал изучать языки программирования в приложении для телефона, но позже начал делать это на разных сайтах и курсах. Сейчас я преподаю Python и делаю сайты.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 - :telescope: Участвовал в конферениях "Инженеры будущего".
 
